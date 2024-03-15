@@ -47,7 +47,7 @@
                 />
             </svg>
         </a>
-        <a href="#" target="_blank">
+        <a href="https://t.me/+gJRVJEeo-bY2Mjll" target="_blank">
             <svg
                 class="w-8 h-8 text-accent"
                 viewBox="0 0 24 24"
