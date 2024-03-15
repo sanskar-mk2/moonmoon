@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    @font-face {
+      font-family: "Custom-1";
+      src: url(/fonts/5yearsoldfont.ttf) format("woff");
+    }
+    @font-face {
+        font-family: "Custom-2";
+        src: url(/fonts/doves.ttf) format("woff");
+      }
+      @font-face {
+        font-family: "Custom-3";
+        src: url(/fonts/tommys.ttf) format("woff");
+      }
+  }

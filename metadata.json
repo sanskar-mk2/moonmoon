@@ -1,10 +1,10 @@
 {
-    "name": "MOONMOON - The Dumbest Dog On The Internet",
+    "name": "Moon Moon - The Dumbest Dog On The Internet",
     "symbol": "MOONMOON",
-    "image": "",
-    "description": "",
+    "image": "https://raw.githubusercontent.com/sanskar-mk2/moonmoon/master/moonmoon.png",
+    "description": "Moon Moon - Most retarted dog on the internet, now on Solana.",
     "extensions": {
-        "twitter": "",
+        "twitter": "https://twitter.com/MooNMooNonSol",
         "telegram": ""
     },
     "tags": [],
